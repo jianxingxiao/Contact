@@ -154,3 +154,8 @@ void ModifyContact(struct Contact* ps)
 		printf("ÐÞ¸ÄÍêºó\n");
 	}
 }
+
+void SortContact(struct Contact* ps)
+{
+
+}

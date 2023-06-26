@@ -42,7 +42,7 @@ int main()
             ShowContact(&con);
             break;
         case SORT:
-
+            SortContact(&con);
             break;
         case EXIT:
             printf("�˳�ͨѶ¼\n");
