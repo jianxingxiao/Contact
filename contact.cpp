@@ -158,4 +158,5 @@ void ModifyContact(struct Contact* ps)
 void SortContact(struct Contact* ps)
 {
 
+
 }
